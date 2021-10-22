@@ -1,0 +1,23 @@
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\bin\Debug\CadastroArray.exe.config
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\bin\Debug\CadastroArray.exe
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\bin\Debug\CadastroArray.pdb
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.csproj.AssemblyReference.cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.frmPrincipal.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.frmUsuario.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.Properties.Resources.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.csproj.GenerateResource.cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.exe
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.pdb
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroArray-Aula09\CadastroArray\obj\Debug\CadastroArray.frmCliente.resources
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\bin\Debug\CadastroArray.exe.config
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\obj\Debug\CadastroArray.exe
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\obj\Debug\CadastroArray.pdb
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\bin\Debug\CadastroArray.exe
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\bin\Debug\CadastroArray.pdb
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\obj\Debug\CadastroArray.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\obj\Debug\CadastroArray.frmCliente.resources
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\obj\Debug\CadastroArray.frmPrincipal.resources
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\obj\Debug\CadastroArray.frmUsuario.resources
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\obj\Debug\CadastroArray.Properties.Resources.resources
+C:\Users\Aluno\Documents\User-CustomerGenerator\User-CustomerGenerator-master\CadastroArray\obj\Debug\CadastroArray.csproj.GenerateResource.Cache
